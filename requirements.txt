@@ -93,7 +93,6 @@ streamlit-folium==0.6.5
 tenacity==8.0.1
 terminado==0.13.3
 tinycss2==1.1.1
-toml==0.10.2
 toolz==0.11.2
 tornado==6.1
 traitlets==5.1.1
